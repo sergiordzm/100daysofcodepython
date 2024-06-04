@@ -37,3 +37,21 @@
 
 
 # print(type(a))
+
+#Operaciones matemáticas
+3+3
+7-2
+3*2
+6 / 3
+2 ** 3
+
+#PEMDAS
+#Paréntesis
+#Exponentes
+#Multiplicación
+#División
+#Adición
+#Sustracción
+
+print(3 * 3 + 3 / 3 - 3)
+print(3 * (3 + 3) / 3 - 3)
